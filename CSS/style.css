@@ -1,0 +1,106 @@
+body{background-color: black;} 
+header img{width: 1120px;height: 450px; border-radius: 30px;}
+p{text-align: center;} 
+
+h1{text-align:center;     
+font-family:Impact;     
+font-size: 60px; color: white;}
+              
+
+
+nav a{position: absolute;     
+    left: -80px;     
+    transition: 0.3s;     
+    padding:15px;     
+    width: 100px;     
+    text-decoration: none;     
+    font-size:20px;     
+    color:white;     
+    border-radius: 0 5px 5px 0;}     
+    
+nav a:hover{left:0;     } 
+              
+.golovna{top: 810px;
+background-color: #D2D2D4;     
+border: 3px solid #707375;     
+font-size: 16px; 
+font-family: Impact;     
+} 
+
+
+
+.about{top:875px;     
+background-color: #6B99C3;     
+border: 3px solid #16354D;     
+font-size: 15px;   
+font-family: Impact;   
+}  
+
+
+.blog{
+    top:960px;     
+    background-color: #16354D;     
+    border: 3px solid #6B99C3;
+    font-family: Impact;      
+}     
+
+.projects{
+top:1030px;     
+    background-color: #0C151C;     
+    font-size: 20px;     
+    border: 3px solid #D2D2D4;
+    font-family: Impact;     
+}    
+
+
+
+     
+     
+     
+     .foot{         
+        position: absolute;  
+               top: 1200px;        
+                background-color: #0C151C;         
+                width: 1400px;         
+                height: 200px;        
+                 padding: 15px;         
+                 border-radius: 25px;     }
+                 
+                 
+                 
+                 
+                 footer p{         
+                    position: absolute;         
+                    top: 130px;         
+                    color: white;
+                font-size: 40px;font-family: Impact;}
+                    
+                    
+                    
+                    footer a{color:white;
+                         text-decoration:none; 
+                         position: absolute;         
+                         top: 180px;         
+                         left: 580px;         
+                         display: inline;
+                         font-size: 40px;font-family: Impact; }
+
+
+                         footer a:hover{color:rgb(91, 91, 245);
+                            text-decoration:none;
+                            position: absolute;
+                                    top: 180px;
+                                    left: 580px;
+                                    display: inline;
+                                    transition: 1s;
+                            
+                            
+                            }
+
+main p{color: white;font-size: 40px;font-family: Impact;text-align: center;}
+
+footer p::before{content:url("https://i.postimg.cc/gJ3xp7jM/icons8-discord-50-1.png");
+    margin: 20px;
+   }
+
+iframe{border: 5px solid rgb(91, 91, 245) ;border-radius: 35px;}
